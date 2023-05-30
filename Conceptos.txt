@@ -8,3 +8,5 @@ Conceptos Repaso
 *Puntero: La direccion en donde se encuentra un archivo. 
 *Constructor: Metodo que se utiliza para inicializar un objeto recien creado y asignarle valores iniciales a sus variables de instncia. 
 *Git Hub: Repositorio para compartir achivo y codigos. 
+Gracias <3
+El repaso es meramente educativo no usar para otros fines
