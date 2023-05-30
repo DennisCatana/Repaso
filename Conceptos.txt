@@ -1,0 +1,10 @@
+Conceptos Repaso
+
+*Clase: Conjunto de instrucciones que definen las caracteristicas de un objeto.
+*Objeto: Todo lo que vemos en la realidad seaq fisico o no
+*Método: Mal llamadas funciones, acciones que hace el objeto.
+*Atributo: Son las propiedades que los objetos tienen, estas son mucho mas especificas
+*Stters: Se utiliza para establecer un valor de un atributo.
+*Puntero: La direccion en donde se encuentra un archivo. 
+*Constructor: Metodo que se utiliza para inicializar un objeto recien creado y asignarle valores iniciales a sus variables de instncia. 
+*Git Hub: Repositorio para compartir achivo y codigos. 

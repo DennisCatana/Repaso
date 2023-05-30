@@ -1,0 +1,5 @@
+Conceptos generales. 
+
+Clase: 
+*Conjunto de instrucciones que define las características y comportamientos de un objeto en particular.
+
